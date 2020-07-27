@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/nickprovs/Ballpit">
-    <img src="_meta/images/logo.png" alt="Logo" width="256" height="256">
+    <img src="_meta/logo.png" alt="Logo" width="256" height="256">
   </a>
 
   <h3 align="center">Ballpit</h3>
@@ -44,7 +44,7 @@ BallPit is a 2D video game where the goal is to stay alive and earn as many poin
 While dodging the enemies (the red circles) who ricochet off the walls --
 the user tries to earn as many gold coins as possible while picking up power-ups along the way.
 
-[![Product Name Screen Shot][product-screenshot]](/_meta/images/sample.jpg)
+[![Product Name Screen Shot][product-screenshot]](/_meta/sample.jpg)
 
 ### Built With
 
