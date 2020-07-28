@@ -41,7 +41,7 @@
 ## About The Project
 
 BallPit is a 2D video game where the goal is to stay alive and earn as many points as possible.
-While dodging the enemies (the red circles) who ricochet off the walls --
+This is done while dodging the enemies (the red circles) who ricochet off the walls --
 the user tries to earn as many gold coins as possible while picking up power-ups along the way.
 
 [![Product Name Screen Shot][product-screenshot]](/_meta/sample.jpg)
