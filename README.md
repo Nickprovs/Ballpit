@@ -20,7 +20,7 @@
   <h3 align="center">Ballpit</h3>
 
   <p align="center">
-    My first video game. Made in 2016 as part of a Python course.
+    My first video game. Made in 2016 as part of a Python course. I think it's a fun little riot.
     <br />
     <br />
   </p>
