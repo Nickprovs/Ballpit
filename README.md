@@ -40,9 +40,8 @@
 
 ## About The Project
 
-BallPit is a 2D video game where the goal is to stay alive and earn as many points as possible.
-This is done while dodging the enemies (the red circles) who ricochet off the walls --
-the user tries to earn as many gold coins as possible while picking up power-ups along the way.
+BallPit is a 2D video game where the goal is to stay alive and collect as many coins as possible.
+This is done while gathering power-ups and dodging enemies who ricochet off the walls
 
 [![Product Name Screen Shot][product-screenshot]](/_meta/sample.jpg)
 
